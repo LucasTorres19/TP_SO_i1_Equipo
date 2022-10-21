@@ -19,4 +19,8 @@ Si, cuando agrego/actualizo un archivo el resto puede verlo.
 
 d-¿De qué forma se comunicaron ustedes?
 
-Nos comunicamos mediante WhatsApp y Discord
+Nos comunicamos mediante WhatsApp y Discord.
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+Consideramos que la mejor forma de comunicarnos dentro de github es por medio de los diagramas incluidos en la sección PROJECTS del repositorio que compartimos.
